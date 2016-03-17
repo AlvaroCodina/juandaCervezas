@@ -1,0 +1,27 @@
+{
+  "name": "cervezasalvarocodina",
+  "version": "1.0.0",
+  "description": "Librería para consultar cervezas",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlvaroCodina/juandaCervezas.git"
+  },
+  "keywords": [
+    "cerveza",
+    "cervezas",
+    "beer"
+  ],
+  "author": "alvarocodina <alvarocodinalahoz@gmail.com> (https://github.com/AlvaroCodina/juandaCervezas)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlvaroCodina/juandaCervezas/issues"
+  },
+  "homepage": "https://github.com/AlvaroCodina/juandaCervezas#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
